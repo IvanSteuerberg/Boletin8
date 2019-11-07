@@ -38,8 +38,8 @@ cantidadeFinal=cantidade+incremento;
 }        
 }
 public void amosar(){
- System.out.println("A cantidade é: "+cantidade+"\nA cantidade final é: "
-    +cantidadeFinal+"\n o incremento é: "+incremento);    
+ System.out.println("A cantidade é: "+cantidade+"\nO incremento é: "+incremento
+ +"\nA cantidade final é: "+cantidadeFinal);    
 }
 
 
