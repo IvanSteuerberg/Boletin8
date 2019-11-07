@@ -24,11 +24,11 @@ if (cantidade<=500){
   incremento=cantidade*0.50f;
   cantidadeFinal=cantidade+incremento; 
 }   
-else if (cantidade>500 && cantidade<=1000){
+else if (cantidade<=1000){
   incremento=cantidade*0.07f;
   cantidadeFinal=cantidade+incremento; 
 }
-else if (cantidade>1000 && cantidade<=5000){
+else if (cantidade<=5000){
   incremento=cantidade*0.15f;
   cantidadeFinal=cantidade+incremento; 
 }
